@@ -261,7 +261,7 @@ struct ContentView: View {
                                 Image(systemName: "airpodspro.chargingcase.wireless.fill")
                                     .font(.title2)
                             })
-                            
+                            Text("Hi")
                             Text("Airpods")
                                 .font(.caption)
                                 .foregroundStyle(Color.white)
